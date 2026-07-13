@@ -1,9 +1,0 @@
-I chose to build the Student Grade Analyzer because it 
-combines my interests in Computer Science and Statistics 
-to solve a practical, real-world problem.
-Educational institutions collect large amounts of student performance data, and manually analyzing this information can be time-consuming and prone to errors.
-This project demonstrates how software can automate data processing, generate meaningful statistical insights, and present results in a clear and accessible way.
-Through this project, I wanted to strengthen my skills in Python programming, data analysis, software design, and data visualization while applying statistical concepts 
-such as averages, measures of variation, pass rates, and performance distributions. It also gave me the opportunity to organize a software project using a modular structure, making the code easier to maintain, test, and extend.
-
-I selected this project because it is more than a programming exercise—it addresses a realistic use case that could assist lecturers, teachers, and academic administrators in monitoring student performance and making informed decisions. As the project evolves, I plan to add features such as PDF report generation, Excel support, interactive dashboards, and predictive analytics to further demonstrate my software engineering and data science capabilities.
